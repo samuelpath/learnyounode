@@ -10,9 +10,7 @@
       "name": "Lancer le programme",
       "program": "${file}",
       "args": [
-        "http://www.google.com",
-        "http://www.microsoft.com",
-        "http://www.apple.com"
+        "22350"
       ]
     }
   ]
